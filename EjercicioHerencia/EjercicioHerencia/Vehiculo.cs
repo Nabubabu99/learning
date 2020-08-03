@@ -24,16 +24,13 @@ namespace EjercicioHerencia
         }
         abstract public void Conducir();
         public virtual void Despegar()
-        {
-            Console.WriteLine("");
+        {  
         }
         public virtual void Volar()
         {
-            Console.WriteLine("");
         }
         public virtual void Aterrizar()
         {
-            Console.WriteLine("");
         }
         private String vehiculo;
     }
