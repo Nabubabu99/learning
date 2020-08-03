@@ -1,0 +1,13 @@
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.exe
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.deps.json
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.json
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.dev.json
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csprojAssemblyReference.cache
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\Claudia\source\repos\EjercicioHerencia\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.genruntimeconfig.cache
